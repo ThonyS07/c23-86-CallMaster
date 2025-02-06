@@ -1,3 +1,4 @@
+'use client'
 import { useState } from "react";
 import StatisticsSummary from "../../components/StatisticsSummary";
 import TicketsTable from "../TicketsTable";
